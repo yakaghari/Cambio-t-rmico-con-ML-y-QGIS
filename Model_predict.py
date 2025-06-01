@@ -1,5 +1,4 @@
 # Script: Model_predict.py
-# Descripción: 
 # Autor: Yassine Kachoua Ghari
 # Fecha: 06/06/2025
 # Proyecto: TFM - Análisis del cambio térmico mediante Machine Learning y visualizaciones QGIS:
