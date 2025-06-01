@@ -34,11 +34,11 @@ Random Forest mostró el mejor rendimiento fuera de muestra (2021–2023).
 
 ## Fuentes de datos
 
-- CO₂: Our World in Data
+- CO₂: Our World in Data -- https://ourworldindata.org/co2-emissions 
 
-- PIB: World Bank (Banco Mundial)
+- PIB: World Bank (Banco Mundial) -- https://data.worldbank.org/indicator/SP.POP.TOTL  
 
-- Temperatura: Berkeley Earth High-Resolution Dataset
+- Temperatura: Berkeley Earth High-Resolution Dataset -- https://berkeleyearth.org/data/  
 
 ## Licencia
 Este proyecto es de uso académico. Si desea reutilizar parte del código o los datos, por favor cite este repositorio o contacte con el autor.
